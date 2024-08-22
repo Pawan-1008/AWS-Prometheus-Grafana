@@ -1,3 +1,3 @@
 # AWS-Prometheus-Grafana
 
-![Untitled design (45)](https://github.com/user-attachments/assets/19ea1cdf-bce2-411a-ad51-257fdaf2f971)
+![Untitled design (46)](https://github.com/user-attachments/assets/fb4f188a-d1a4-4380-a3fc-5c0cc3459b8d)
